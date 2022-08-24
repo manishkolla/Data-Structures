@@ -4,7 +4,7 @@ Algorithms related to searching, sorting and Stacks, Queues, hashmaps, trees, an
 **Unit 1: Prerequisite Review**
 In this unit, we will briefly review key concepts from mathematics (mainly logarithms) and computer science (namely, basic coding and the fundamentals of object-oriented programming).
 
-**Unit 2: Asymptotic Analysis** \n
+**Unit 2: Asymptotic Analysis** 
 In this unit, we will learn how to analyze how fast an algorithm is and how much space it uses up. We will discuss how computer scientists formally analyze performance, and use this to develop a number of classes of more performant and less performant algorithms. 
 
 **Unit 3: Arrays and Linked List**
