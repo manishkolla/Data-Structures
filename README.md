@@ -1,7 +1,7 @@
 # Data-Structures-in Python
 Algorithms related to searching, sorting and Stacks, Queues, hashmaps, trees, and graphs
 
-Unit 1: Prerequisite Review
+#Unit 1: Prerequisite Review
 In this unit, we will briefly review key concepts from mathematics (mainly logarithms) and computer science (namely, basic coding and the fundamentals of object-oriented programming).
 
 Unit 2: Asymptotic Analysis
